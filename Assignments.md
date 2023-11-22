@@ -1,7 +1,6 @@
 # Python Intro III Assignments
 ***Submit a PR for each exercise then switch driver/navigator roles***
-The structure of your work is up to you. I suggest creating a new file for each exercise.
-And then copy paste the usage into each file and run that individually.
+The structure of your work is up to you. I suggest creating a new file for each exercise, and then copy paste the usage into each file and run that individually.
 
 # Ex. 1 Validation Exception
 Create a function called `validate_file()` which accepts a name of a file to validate.  This function validates the
@@ -138,9 +137,9 @@ def ex4():
 ex4()
 ```
 
-# Ex. 5 Car List*
+# Ex. 5 Car List
 Create a function called `build_car_list()`.  This function reads from the [input.txt](files/input.txt) file and reads from the
-[car-ids.txt](files/car-ids.txt) file to build a single list of cars and removes the bad mileage data.
+[car-ids.txt](files/car-ids.txt) file to build a single list of cars and removes the bad (outlier) mileage data.
 
 Output:
 ```python
@@ -159,4 +158,3 @@ def ex5():
 
 ex5()
 ```
-*This is a hard one.

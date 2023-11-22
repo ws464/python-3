@@ -8,14 +8,14 @@ Assignments are located [here](Assignments.md).
 4. Open the Python directory
 - Create virtual environment: `python -m venv venv`
 - Activate virtual environment: `venv\Scripts\activate.bat`
-- Install dependencies: `pip install -r requirements.txt`
-- Check project settings for Python Interpreter settings:
-    - File >> Project Structure >> Project
-    - File >> Project Structure >> Modules
-- Create configuration:
-    - Edit Configurations...
-    - Click plus, create name, select `main.py` file
-    - Use SDK Module
+- Install dependencies: `pip install --cert "C:\Users\<INSERT F ID HERE>\zscaler.crt" -r requirements.txt`
+    - IntelliJ: Check project settings for Python Interpreter settings:
+        - File >> Project Structure >> Project
+        - File >> Project Structure >> Modules
+    - Create configuration:
+        - Edit Configurations...
+        - Click plus, create name, select `main.py` file
+        - Use SDK Module
 
 ***Important to read the following***
 
