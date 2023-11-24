@@ -2,7 +2,7 @@
 Assignments are located [here](Assignments.md).
 
 # Getting Started
-1. Create a shared repository, on Github, with your partner
+1. Create a shared repository, on Github.
 2.  Clone this repo into that shared repository
 3. Launch IDE of choice
 4. Open the Python directory
@@ -16,14 +16,6 @@ Assignments are located [here](Assignments.md).
         - Edit Configurations...
         - Click plus, create name, select `main.py` file
         - Use SDK Module
-
-***Important to read the following***
-
-5. Read `Assignments.md` carefully for instructions and create your solutions in `src` directory.
-6. Create a branch for each exercise. You will merge your work (Pull Request) into main after each exercise is complete and tested. For example: `dev-dt-ex1`
-7. 1 partner creates a PR after each exercise.
-- Requires approval and checking for merge conflicts.
-- Only after this, move to the next exercise where the Partner making the PR is switched.
 
 
 # Notes
