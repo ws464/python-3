@@ -2,10 +2,9 @@
 Assignments are located [here](Assignments.md).
 
 # Getting Started
-1. Create a shared repository, on Github.
-2.  Clone this repo into that shared repository
-3. Launch IDE of choice
-4. Open the Python directory
+1. Fork and clone this repo.
+2. Launch IDE of choice
+3. Open the Python directory
 - Create virtual environment: `python -m venv venv`
 - Activate virtual environment: `venv\Scripts\activate.bat`
 - Install dependencies: `pip install --cert "C:\Users\<INSERT F ID HERE>\zscaler.crt" -r requirements.txt`
